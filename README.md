@@ -16,6 +16,8 @@
 - `templates/` — переиспользуемые мета-шаблоны для сборки новых промптов
   - `prompt-builders/`
     - `prompt-architect-v1.md` — конструктор промптов по 6 блокам (Task/Context/Exemplars/Persona/Format/Tone)
+  - `language-learning/`
+    - `book-club-esl-companion.md` — интерактивный промпт для разбора английской художественной книги (B1-B2, без спойлеров)
 - `tips/` — короткие практические заметки и правила работы с AI
   - `ai-usage.md` — место для персональных best practices
 
